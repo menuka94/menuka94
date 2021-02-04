@@ -2,7 +2,7 @@
 
 - I'm a Computer Science Ph.D. student at Colorado State University
 - My research focus is on Distributed Systems
-- You can find my resume [here](https://menuka94.github.io/resume)
+- You can find my resume [here](http://bit.ly/menuka-resume-github)
 <!--
 **menuka94/menuka94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
