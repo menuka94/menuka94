@@ -1,6 +1,6 @@
 ### Seeking Summer 2021 Software Engineering internships in the United States
 
-- I'm a Computer Science Ph.D. student at Colorado State University
+- I'm a Computer Science Ph.D. student at Colorado State University :us:
 - My research focus is on Distributed Systems
 - You can find my resume [here](http://bit.ly/menuka-resume-github)
 <!--
