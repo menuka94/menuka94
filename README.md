@@ -1,4 +1,4 @@
-### Seeking Summer 2021 Software Engineering internships in the United States
+### Seeking Summer 2022 Software Engineering internships in the United States
 
 - I'm a Computer Science Ph.D. student at Colorado State University :us:
 - My research focus is on Distributed Systems
@@ -13,3 +13,6 @@
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 -->
+
+[![Menuka's GitHub stats](https://github-readme-stats.vercel.app/api?username=menuka94&count_private=true)](https://github.com/anuraghazra/github-readme-stats!)
+
