@@ -14,3 +14,11 @@
 - 📫 How to reach me: ...
 -->
 
+#### Projects
+- [Sustain Query Service](https://github.com/Project-Sustain/sustain-query-service)
+- [Sustain Dataset Explorer](https://github.com/Project-Sustain/sustain-dataset-explorer)
+
+
+#### Class Projects
+- [Routing Packets Within a Structured Peer-to-Peer (P2P) Network Overlay](https://github.com/menuka94/cs455-HW-1)
+- [Scalable Server Design: Using Thread Pools & Micro-Batching to Manage and Load-Balacne Active Network Connections](https://github.com/menuka94/cs455-hw2)
