@@ -21,4 +21,4 @@
 
 #### Class Projects
 - [Routing Packets Within a Structured Peer-to-Peer (P2P) Network Overlay](https://github.com/menuka94/cs455-HW-1)
-- [Scalable Server Design: Using Thread Pools & Micro-Batching to Manage and Load-Balacne Active Network Connections](https://github.com/menuka94/cs455-hw2)
+- [Scalable Server Design: Using Thread Pools & Micro-Batching to Manage and Load-Balance Active Network Connections](https://github.com/menuka94/cs455-hw2)
