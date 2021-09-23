@@ -1,5 +1,5 @@
 ### Seeking Summer 2022 Software Engineering internships in the United States
-#### [RESUME](http://bit.ly/menuka-resume-github)
+### Resume :clipboard:: http://bit.ly/menuka-resume-github
 <!--
 **menuka94/menuka94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -10,6 +10,8 @@
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 -->
+
+---
 
 #### Projects
 - [Sustain Query Service](https://github.com/Project-Sustain/sustain-query-service)
