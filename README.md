@@ -1,4 +1,3 @@
-### Seeking Summer 2022 Software Engineering internships
 ### Résumé :clipboard:: http://bit.ly/menuka-resume-github
 <!--
 **menuka94/menuka94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
